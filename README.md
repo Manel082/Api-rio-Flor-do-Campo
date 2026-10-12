@@ -150,4 +150,8 @@ npx serve .
 
 ---
 
-Desenvolvido por **Emmanuel** · Maceió – AL
+Aluno 1: Emanuel Pedro
+Aluno 2: Emmanuel Henrique Gonzaga Pereira Alves
+Aluno 3: João Lucas de Assis Lins
+Aluno 4: João Vinícius Silva dos Santos
+Aluno 5: Jorge José Luiz Pacheco da Silva
